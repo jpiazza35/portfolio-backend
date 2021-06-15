@@ -15,6 +15,10 @@ app.get('/about', (req, res) => {
     res.json(about)
 });
 
+app.get('/', (req, res) => {
+    res.res("funciona")
+});
+
 app.get('/portfolio', (req,res) => {
     res.json(portfolio)
 });
