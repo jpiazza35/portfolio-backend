@@ -7,11 +7,16 @@
         "skills": [
         "Linux",
         "GCP/AWS",
-        "Kubernetes/Docker",
+        "AWS",
+        "Kubernetes",
+        "Docker",
         "Terraform",
         "Ansible",
+        "Prometheus",
+        "Graphana",
         "Python",
-        "Javascript/ReactJS",
+        "Javascript",
+        "ReactJS",
         "CI/CD"
         ]
     }
