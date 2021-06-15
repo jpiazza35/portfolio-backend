@@ -16,7 +16,7 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-    res.res("funciona")
+    res.send("funciona")
 });
 
 app.get('/portfolio', (req,res) => {
