@@ -22,10 +22,9 @@
         "Bootstrap"
       ],
       "images": [
-        "https://i.ibb.co/zQ6j0Np/Captura-de-pantalla-2020-07-31-17-39-58.png",
-        "https://i.ibb.co/b5JL5dV/Captura-de-pantalla-2020-07-31-17-47-14.png",
-        "https://i.ibb.co/j5DLNP3/Captura-de-pantalla-2020-07-31-17-47-41.png",
-        "https://i.ibb.co/61Xt9N2/Captura-de-pantalla-2020-07-31-17-47-53.png"
+        "https://i.ibb.co/N9DCVbJ/blackjack1.png",
+        "https://i.ibb.co/2sGQSX2/blackjack2.png",
+        
       ],
       "repo": "https://github.com/jpiazza35/react-gifsApp",
       "link": "https://blackjack-gauchito.vercel.app/"
