@@ -13,12 +13,12 @@
   
     },
     {
-      "name": "PokeReact",
-      "description": "Aplicación que analiza los equipos de Pokemon, se usa la API pokeapi.co",
+      "name": "BlackJack",
+      "description": "This is app of traditional game called BlackJack ",
       "tecnologies": [
-        "React",
-        "Redux",
-        "Manejo de API",
+        "JS",
+        "CSS",
+        "ReactJS",
         "Bootstrap"
       ],
       "images": [
@@ -27,7 +27,8 @@
         "https://i.ibb.co/j5DLNP3/Captura-de-pantalla-2020-07-31-17-47-41.png",
         "https://i.ibb.co/61Xt9N2/Captura-de-pantalla-2020-07-31-17-47-53.png"
       ],
-      "repo": "https://github.com/juan3492/pokemonreact"
+      "repo": "https://github.com/jpiazza35/react-gifsApp",
+      "link": "https://blackjack-gauchito.vercel.app/"
       
     },
     {
