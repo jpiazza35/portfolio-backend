@@ -162,6 +162,25 @@
       ],
       "repo": "https://i.ibb.co/DGyvQqP/course-certificate.jpg"
       
+    },
+
+    {
+      "name": "Google Cloud Platform Certification",
+      "description": "Official Trainning given by Google",
+      "tecnologies": [
+        "GCP",
+        "Elastic Cloud Infrastructure,Scaling",
+        "Scaling and Automation"
+        
+      ],
+      "images": [
+        "https://i.ibb.co/YczCg7L/GCP2.jpg",
+        "https://i.ibb.co/mJTwTzd/GCP1.png"
+   
+
+      ],
+      "repo": "https://googlecourses.qwiklabs.com/public_profiles/b60db51c-596c-4f31-b925-7e437050b5e3"
+      
     }
 
 
