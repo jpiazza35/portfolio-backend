@@ -87,7 +87,7 @@
 
     },
     {
-      "name": "MY Portfolio",
+      "name": "My Portfolio",
       "description": "This is the current web you are,it was done following videos from youtube, backend in nodeJS",
       "tecnologies": [
         "React",
@@ -106,6 +106,44 @@
       ],
       "repo": "https://github.com/juan3492/portfolio-frontend"
       
+    },
+
+    {
+      "name": "Red Hat Certified Specialist in Ansible Automation (EX407)",
+      "description": "Course made by Linux Academy",
+      "tecnologies": [
+        "Ansible",
+        "deploying playbooks",
+        "Roles"
+        
+      ],
+      "images": [
+        "https://i.ibb.co/9Tgmn3H/Ansible1.png",
+        "https://i.ibb.co/55hf5Ys/Ansible2.png"
+   
+
+      ],
+      "repo": "https://linuxacademy.com/profile/u/cert/id/326482"
+      
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "description": "Official certification course given by Linux Academy",
+      "tecnologies": [
+        "Kubernetes",
+        "deploying Applications",
+        "Roles",
+        "Monitoring Cluster"
+      ],
+      "images": [
+        "https://i.ibb.co/6ZcBPFV/kub1.png",
+        "https://i.ibb.co/MZVvKCJ/Kubernetes1.png"
+   
+
+      ],
+      "repo": "https://linuxacademy.com/profile/u/cert/id/435175"
+      
     }
+
 
 ]
