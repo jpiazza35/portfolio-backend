@@ -31,47 +31,47 @@
       
     },
     {
-      "name": "Intro component with sign up form",
-      "description": "Formulario desarrollado a partir de uno challenges de Frontend Mentor",
+      "name": "BotCovid",
+      "description": "chatbot made in ReactJS and CSS",
       "tecnologies": [
-        "HTML",
+        "Reactjs",
         "CSS",
-        "Diseño responsivo"
+        "responsive design"
       ],
       "images": [
-        "https://i.ibb.co/MDpMRWY/Captura-de-pantalla-2020-07-31-20-01-12.png",
-        "https://i.ibb.co/L04ZbZv/Captura-de-pantalla-2020-07-31-20-02-28.png"
+        "https://i.ibb.co/qRT0JQh/chatbot1.png",
+        "https://i.ibb.co/DwgdDjX/chatbot2.png"
       ],
-      "repo": "https://github.com/juan3492/Frontend-Mentor---Intro-component-with-sign-up-form"
+      "repo": "https://github.com/jpiazza35/botcovid",
+      "link": "https://botcovid-git-master-jpiazza35.vercel.app/chat/"
       
     },
     {
-      "name": "Huddle landing page with alternating feature blocks",
-      "description": "Landing hecha a partir de un challenge de Frontend Mentor",
+      "name": "React Gif searcher",
+      "description": "app made in reactjs to search gif",
       "tecnologies": [
         "HTML",
         "CSS",
-        "Diseño responsivo"
+        "ReactJS"
+        "JS"
       ],
       "images": [
-        "https://i.ibb.co/4RWG4Zy/Captura-de-pantalla-2020-07-31-20-06-29.png",
-        "https://i.ibb.co/pw95DgJ/Captura-de-pantalla-2020-07-31-20-07-56.png",
-        "https://i.ibb.co/Y2C7wHB/Captura-de-pantalla-2020-07-31-20-08-31.png",
-        "https://i.ibb.co/6gvwftd/Captura-de-pantalla-2020-07-31-20-09-02.png",
-        "https://i.ibb.co/DpQnsbP/Captura-de-pantalla-2020-07-31-20-09-09.png"
+        "https://i.ibb.co/z6SKzPS/gif1.png",
+        "https://i.ibb.co/sJmZqTB/gift2.png"
       ],
-      "repo": "https://github.com/juan3492/Frontend-Mentor---Huddle-landing-page-with-alternating-feature-blocks"
+      "repo": "https://github.com/jpiazza35/react-gifsApp",
+      "link": "https://react-gifs-app-alpha.vercel.app/"
      
     },
     {
-      "name": "REST Countries API with color theme switcher",
-      "description": "Aplicacion hecha a partir de uno de los challenges de Front End Mentor, se usa la Api restcountries.eu",
+      "name": "Jummy reproductor",
+      "description": "Aplicacion made in ReactJS consuming API of spotify",
       "tecnologies": [
-        "Vue",
-        "Vue Router",
-        "HTML",
+        "Reactjs",
         "CSS",
-        "Diseño responsivo"
+        "HTML",
+        "API",
+        
       ],
       "images": [
         "https://i.ibb.co/p4RgL4J/Captura-de-pantalla-2020-07-31-20-25-05.png",
@@ -83,12 +83,12 @@
         "https://i.ibb.co/pWg5Zk8/Captura-de-pantalla-2020-07-31-20-29-32.png",
         "https://i.ibb.co/hsrHqjH/Captura-de-pantalla-2020-07-31-20-29-14.png"
       ],
-      "repo": "https://github.com/juan3492/Frontend-Mentor---REST-Countries-API-with-color-theme-switcher"
+      "repo": "https://gitlab.com/piazzajignacio/jummy-reproductor"
 
     },
     {
-      "name": "Mi Portfolio [React CBA]",
-      "description": "Esta app en la que estás ahora mismo. El backend fue desarrollado siguiendo el tutorial de React Córdoba.",
+      "name": "MY Portfolio",
+      "description": "This is the current web you are,it was done following videos from youtube, backend in nodeJS",
       "tecnologies": [
         "React",
         "NodeJS",
@@ -96,13 +96,13 @@
         "HTML",
         "GSAP",
         "CSS",
-        "Diseño responsivo"
+        "Responsive Design"
       ],
       "images": [
-        "https://i.ibb.co/qC2MZX0/Captura-de-pantalla-2020-08-13-14-10-39.png",
-        "https://i.ibb.co/F31bKGt/Captura-de-pantalla-2020-08-13-14-10-45.png",
-        "https://i.ibb.co/fvcsBMb/Captura-de-pantalla-2020-08-13-14-10-50.png",
-        "https://i.ibb.co/rdtWq9M/Captura-de-pantalla-2020-08-13-14-10-57.png"
+        "https://i.ibb.co/vDR4VKm/mycv1.png",
+        "https://i.ibb.co/QN2VKr2/cv3.png",
+        "https://i.ibb.co/LtSWNKB/cv2.png"
+
       ],
       "repo": "https://github.com/juan3492/portfolio-frontend"
       
