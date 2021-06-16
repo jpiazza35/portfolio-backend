@@ -143,6 +143,25 @@
       ],
       "repo": "https://linuxacademy.com/profile/u/cert/id/435175"
       
+    },
+
+    {
+      "name": "Red Hat Delivery Specialist - Automation",
+      "description": "Official Trainning given by Redhat",
+      "tecnologies": [
+        "Automation",
+        "Redhat Automation",
+        "Ansible"
+        
+      ],
+      "images": [
+        "https://i.ibb.co/txVLxfh/automation1.png",
+        "https://i.ibb.co/kq7Lf2T/automation2.png"
+   
+
+      ],
+      "repo": "https://i.ibb.co/DGyvQqP/course-certificate.jpg"
+      
     }
 
 
