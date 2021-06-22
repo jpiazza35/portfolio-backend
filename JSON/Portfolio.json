@@ -182,7 +182,27 @@
       ],
       "repo": "https://googlecourses.qwiklabs.com/public_profiles/b60db51c-596c-4f31-b925-7e437050b5e3"
       
+    },
+
+    {
+      "name": "HashiCorp Certified Terraform Associate",
+      "description": "Official Trainning given by HarshiCorp",
+      "tecnologies": [
+        "Terraform",
+        "Vault",
+        "Sentinel"
+        
+      ],
+      "images": [
+        "https://i.ibb.co/gmfgHHy/terraform1.png",
+        "https://i.ibb.co/pJdZ7KT/terraform2-png.png"
+   
+
+      ],
+      "repo": "https://linuxacademy.com/profile/u/cert/id/436397"
+      
     }
+
 
 
 ]
