@@ -202,6 +202,26 @@
       "repo": "https://linuxacademy.com/profile/u/cert/id/436397"
       
     }
+    
+     {
+      "name": "Terraform Automation AWS infrastructure",
+      "description": "Course was taken in Udemy",
+      "tecnologies": [
+        "Terraform",
+        "AWS",
+        "Infra"
+        
+      ],
+      "images": [
+        "https://i.ibb.co/G3Y6BTt/terraform.jpg",
+        
+   
+
+      ],
+      "repo": "https://linuxacademy.com/profile/u/cert/id/436397"
+      
+    }
+
 
 
 
