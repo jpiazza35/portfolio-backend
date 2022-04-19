@@ -199,7 +199,7 @@
    
 
       ],
-      "repo": "https://linuxacademy.com/profile/u/cert/id/436397"
+      "repo": "https://acloudguru-quiz-completion-certificate-production.s3-accelerate.amazonaws.com/FBB03BC4F87F.pdf"
       
     },
     
@@ -218,6 +218,40 @@
 
       ],
       "repo": "https://www.udemy.com/certificate/UC-06561885-1121-40d8-a66b-204a29e8b302/"
+      
+    },
+    {
+      "name": "Helm deep dive v3",
+      "description": "Course was taken in Cloud Guru",
+      "tecnologies": [
+        "Helm",
+        "K8s",
+        "Infra"
+        
+      ],
+      "images": [
+        "https://jose-ignacio-pia.imgbb.com/"
+         
+
+      ],
+      "repo": "https://verify.acloud.guru/F3ADDBFBC37E"
+      
+    },
+    {
+      "name": "GitLab Certified Associate",
+      "description": "Course was taken Gitlab official web page",
+      "tecnologies": [
+        "Gitlab",
+        "CI/CD",
+        "Pipeline"
+        
+      ],
+      "images": [
+        "https://ibb.co/r06p3tv"
+         
+
+      ],
+      "repo": "https://gitlab.badgr.com/public/assertions/JSONVl9KSb-hTUAv0B9S6g?identity__email=jpiazza@asapp.com"
       
     }
 
