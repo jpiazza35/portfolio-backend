@@ -231,7 +231,9 @@
     ],
     "images": [
       "https://verify.acloud.guru/F3ADDBFBC37E",
-      "https://ibb.co/sCjrX0Q"
+      "https://ibb.co/sCjrX0Q",
+      "https://i.ibb.co/6ZcBPFV/kub1.png",
+      "https://i.ibb.co/MZVvKCJ/Kubernetes1.png"
        
 
     ],
@@ -270,7 +272,12 @@
       
     ],
     "images": [
-      "https://ibb.co/wh8Nb0x"
+      "https://i.ibb.co/Fs3N5Ks/tf-aws.png",
+      "https://i.ibb.co/gmfgHHy/terraform1.png",
+      "https://i.ibb.co/pJdZ7KT/terraform2-png.png",
+      "https://i.ibb.co/6ZcBPFV/kub1.png",
+      "https://i.ibb.co/MZVvKCJ/Kubernetes1.png"
+
     
     ],
     "repo": "https://gitlab.com/piazzajignacio/cobrakai/-/tree/main"
