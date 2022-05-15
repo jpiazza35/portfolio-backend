@@ -1,261 +1,282 @@
 [
-    {
-      "name": "ToDo App [JS Course]",
-      "description": "ToDo App made in a course of Javascript",
-      "tecnologies": [
-        "JS"
-      ],
-      "images": [
-        "https://i.ibb.co/QrZytGX/todoapp.png"
-        
-      ],
-      "repo": "https://github.com/jpiazza35/todApp.js"
-  
-    },
-    {
-      "name": "BlackJack",
-      "description": "This is app of traditional game called BlackJack ",
-      "tecnologies": [
-        "JS",
-        "CSS",
-        "ReactJS",
-        "Bootstrap"
-      ],
-      "images": [
-        "https://i.ibb.co/N9DCVbJ/blackjack1.png",
-        "https://i.ibb.co/2sGQSX2/blackjack2.png"
-        
-      ],
-      "repo": "https://github.com/jpiazza35/react-gifsApp",
-      "link": "https://blackjack-gauchito.vercel.app/"
+  {
+    "name": "ToDo App [JS Course]",
+    "description": "ToDo App made in a course of Javascript",
+    "tecnologies": [
+      "JS"
+    ],
+    "images": [
+      "https://i.ibb.co/QrZytGX/todoapp.png"
       
-    },
-    {
-      "name": "BotCovid",
-      "description": "chatbot made in ReactJS and CSS",
-      "tecnologies": [
-        "Reactjs",
-        "CSS",
-        "responsive design"
-      ],
-      "images": [
-        "https://i.ibb.co/qRT0JQh/chatbot1.png",
-        "https://i.ibb.co/DwgdDjX/chatbot2.png"
-      ],
-      "repo": "https://github.com/jpiazza35/botcovid",
-      "link": "https://botcovid-git-master-jpiazza35.vercel.app/chat/"
+    ],
+    "repo": "https://github.com/jpiazza35/todApp.js"
+
+  },
+  {
+    "name": "BlackJack",
+    "description": "This is app of traditional game called BlackJack ",
+    "tecnologies": [
+      "JS",
+      "CSS",
+      "ReactJS",
+      "Bootstrap"
+    ],
+    "images": [
+      "https://i.ibb.co/N9DCVbJ/blackjack1.png",
+      "https://i.ibb.co/2sGQSX2/blackjack2.png"
       
-    },
-    {
-      "name": "React Gif searcher",
-      "description": "app made in reactjs to search gif",
-      "tecnologies": [
-        "HTML",
-        "CSS",
-        "ReactJS",
-        "JS"
-      ],
-      "images": [
-        "https://i.ibb.co/z6SKzPS/gif1.png",
-        "https://i.ibb.co/sJmZqTB/gift2.png"
-      ],
-      "repo": "https://github.com/jpiazza35/react-gifsApp",
-      "link": "https://react-gifs-app-alpha.vercel.app/"
-     
-    },
-    {
-      "name": "Jummy reproductor",
-      "description": "Aplicacion made in ReactJS consuming API of spotify",
-      "tecnologies": [
-        "Reactjs",
-        "CSS",
-        "HTML",
-        "API"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/p4RgL4J/Captura-de-pantalla-2020-07-31-20-25-05.png",
-        "https://i.ibb.co/Wcx2N0H/Captura-de-pantalla-2020-07-31-20-26-07.png",
-        "https://i.ibb.co/Wcx2N0H/Captura-de-pantalla-2020-07-31-20-26-07.png",
-        "https://i.ibb.co/wL83yGh/Captura-de-pantalla-2020-07-31-20-27-01.png",
-        "https://i.ibb.co/G25CT6f/Captura-de-pantalla-2020-07-31-20-28-20.png",
-        "https://i.ibb.co/TtFhKHk/Captura-de-pantalla-2020-07-31-20-28-32.png",
-        "https://i.ibb.co/pWg5Zk8/Captura-de-pantalla-2020-07-31-20-29-32.png",
-        "https://i.ibb.co/hsrHqjH/Captura-de-pantalla-2020-07-31-20-29-14.png"
-      ],
-      "repo": "https://gitlab.com/piazzajignacio/jummy-reproductor"
-
-    },
-    {
-      "name": "My Portfolio",
-      "description": "This is the current web you are,it was done following videos from youtube, backend in nodeJS",
-      "tecnologies": [
-        "React",
-        "NodeJS",
-        "ExpressJS",
-        "HTML",
-        "GSAP",
-        "CSS",
-        "Responsive Design"
-      ],
-      "images": [
-        "https://i.ibb.co/vDR4VKm/mycv1.png",
-        "https://i.ibb.co/QN2VKr2/cv3.png",
-        "https://i.ibb.co/LtSWNKB/cv2.png"
-
-      ],
-      "repo": "https://github.com/jpiazza35/portfolio-frontend",
-      "link": "https://joseignaciopiazzacv.vercel.app/"
-      
-    },
-
-    {
-      "name": "Red Hat Certified Specialist in Ansible Automation (EX407)",
-      "description": "Course made by Linux Academy",
-      "tecnologies": [
-        "Ansible",
-        "deploying playbooks",
-        "Roles"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/9Tgmn3H/Ansible1.png",
-        "https://i.ibb.co/55hf5Ys/Ansible2.png"
-   
-
-      ],
-      "repo": "https://linuxacademy.com/profile/u/cert/id/326482"
-      
-    },
-    {
-      "name": "Certified Kubernetes Administrator (CKA)",
-      "description": "Official certification course given by Linux Academy",
-      "tecnologies": [
-        "Kubernetes",
-        "deploying Applications",
-        "Roles",
-        "Monitoring Cluster"
-      ],
-      "images": [
-        "https://i.ibb.co/6ZcBPFV/kub1.png",
-        "https://i.ibb.co/MZVvKCJ/Kubernetes1.png"
-   
-
-      ],
-      "repo": "https://linuxacademy.com/profile/u/cert/id/435175"
-      
-    },
-
-    {
-      "name": "Red Hat Delivery Specialist - Automation",
-      "description": "Official Trainning given by Redhat",
-      "tecnologies": [
-        "Automation",
-        "Redhat Automation",
-        "Ansible"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/txVLxfh/automation1.png",
-        "https://i.ibb.co/kq7Lf2T/automation2.png"
-   
-
-      ],
-      "repo": "https://i.ibb.co/DGyvQqP/course-certificate.jpg"
-      
-    },
-
-    {
-      "name": "Google Cloud Platform Certification",
-      "description": "Official Trainning given by Google",
-      "tecnologies": [
-        "GCP",
-        "Elastic Cloud Infrastructure,Scaling",
-        "Scaling and Automation"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/YczCg7L/GCP2.jpg",
-        "https://i.ibb.co/mJTwTzd/GCP1.png"
-   
-
-      ],
-      "repo": "https://googlecourses.qwiklabs.com/public_profiles/b60db51c-596c-4f31-b925-7e437050b5e3"
-      
-    },
-
-    {
-      "name": "HashiCorp Certified Terraform Associate",
-      "description": "Official Trainning given by HarshiCorp",
-      "tecnologies": [
-        "Terraform",
-        "Vault",
-        "Sentinel"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/gmfgHHy/terraform1.png",
-        "https://i.ibb.co/pJdZ7KT/terraform2-png.png"
-   
-
-      ],
-      "repo": "https://acloudguru-quiz-completion-certificate-production.s3-accelerate.amazonaws.com/FBB03BC4F87F.pdf"
-      
-    },
+    ],
+    "repo": "https://github.com/jpiazza35/react-gifsApp",
+    "link": "https://blackjack-gauchito.vercel.app/"
     
-     {
-      "name": "Terraform Automation AWS infrastructure",
-      "description": "Course was taken in Udemy",
-      "tecnologies": [
-        "Terraform",
-        "AWS",
-        "Infra"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/Fs3N5Ks/tf-aws.png"
-         
-
-      ],
-      "repo": "https://www.udemy.com/certificate/UC-06561885-1121-40d8-a66b-204a29e8b302/"
+  },
+  {
+    "name": "BotCovid",
+    "description": "chatbot made in ReactJS and CSS",
+    "tecnologies": [
+      "Reactjs",
+      "CSS",
+      "responsive design"
+    ],
+    "images": [
+      "https://i.ibb.co/qRT0JQh/chatbot1.png",
+      "https://i.ibb.co/DwgdDjX/chatbot2.png"
+    ],
+    "repo": "https://github.com/jpiazza35/botcovid",
+    "link": "https://botcovid-git-master-jpiazza35.vercel.app/chat/"
+    
+  },
+  {
+    "name": "React Gif searcher",
+    "description": "app made in reactjs to search gif",
+    "tecnologies": [
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "JS"
+    ],
+    "images": [
+      "https://i.ibb.co/z6SKzPS/gif1.png",
+      "https://i.ibb.co/sJmZqTB/gift2.png"
+    ],
+    "repo": "https://github.com/jpiazza35/react-gifsApp",
+    "link": "https://react-gifs-app-alpha.vercel.app/"
+   
+  },
+  {
+    "name": "Jummy reproductor",
+    "description": "Aplicacion made in ReactJS consuming API of spotify",
+    "tecnologies": [
+      "Reactjs",
+      "CSS",
+      "HTML",
+      "API"
       
-    },
-    {
-      "name": "Helm deep dive v3",
-      "description": "Course was taken in Cloud Guru",
-      "tecnologies": [
-        "Helm",
-        "K8s",
-        "Infra"
-        
-      ],
-      "images": [
-        "https://ibb.co/f0dj0Hh"
-         
+    ],
+    "images": [
+      "https://i.ibb.co/p4RgL4J/Captura-de-pantalla-2020-07-31-20-25-05.png",
+      "https://i.ibb.co/Wcx2N0H/Captura-de-pantalla-2020-07-31-20-26-07.png",
+      "https://i.ibb.co/Wcx2N0H/Captura-de-pantalla-2020-07-31-20-26-07.png",
+      "https://i.ibb.co/wL83yGh/Captura-de-pantalla-2020-07-31-20-27-01.png",
+      "https://i.ibb.co/G25CT6f/Captura-de-pantalla-2020-07-31-20-28-20.png",
+      "https://i.ibb.co/TtFhKHk/Captura-de-pantalla-2020-07-31-20-28-32.png",
+      "https://i.ibb.co/pWg5Zk8/Captura-de-pantalla-2020-07-31-20-29-32.png",
+      "https://i.ibb.co/hsrHqjH/Captura-de-pantalla-2020-07-31-20-29-14.png"
+    ],
+    "repo": "https://gitlab.com/piazzajignacio/jummy-reproductor"
 
-      ],
-      "repo": "https://verify.acloud.guru/F3ADDBFBC37E"
+  },
+  {
+    "name": "My Portfolio",
+    "description": "This is the current web you are,it was done following videos from youtube, backend in nodeJS",
+    "tecnologies": [
+      "React",
+      "NodeJS",
+      "ExpressJS",
+      "HTML",
+      "GSAP",
+      "CSS",
+      "Responsive Design"
+    ],
+    "images": [
+      "https://i.ibb.co/vDR4VKm/mycv1.png",
+      "https://i.ibb.co/QN2VKr2/cv3.png",
+      "https://i.ibb.co/LtSWNKB/cv2.png"
+
+    ],
+    "repo": "https://github.com/jpiazza35/portfolio-frontend",
+    "link": "https://joseignaciopiazzacv.vercel.app/"
+    
+  },
+
+  {
+    "name": "Red Hat Certified Specialist in Ansible Automation (EX407)",
+    "description": "Course made by Linux Academy",
+    "tecnologies": [
+      "Ansible",
+      "deploying playbooks",
+      "Roles"
       
-    },
-    {
-      "name": "GitLab Certified Associate",
-      "description": "Course was taken Gitlab official web page",
-      "tecnologies": [
-        "Gitlab",
-        "CI/CD",
-        "Pipeline"
-        
-      ],
-      "images": [
-        "https://i.ibb.co/cNYLwKR/gitlab.webp"
-         
+    ],
+    "images": [
+      "https://i.ibb.co/9Tgmn3H/Ansible1.png",
+      "https://i.ibb.co/55hf5Ys/Ansible2.png"
+ 
 
-      ],
-      "repo": "https://gitlab.badgr.com/public/assertions/JSONVl9KSb-hTUAv0B9S6g?identity__email=jpiazza@asapp.com"
+    ],
+    "repo": "https://linuxacademy.com/profile/u/cert/id/326482"
+    
+  },
+  {
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "description": "Official certification course given by Linux Academy",
+    "tecnologies": [
+      "Kubernetes",
+      "deploying Applications",
+      "Roles",
+      "Monitoring Cluster"
+    ],
+    "images": [
+      "https://i.ibb.co/6ZcBPFV/kub1.png",
+      "https://i.ibb.co/MZVvKCJ/Kubernetes1.png"
+ 
+
+    ],
+    "repo": "https://linuxacademy.com/profile/u/cert/id/435175"
+    
+  },
+
+  {
+    "name": "Red Hat Delivery Specialist - Automation",
+    "description": "Official Trainning given by Redhat",
+    "tecnologies": [
+      "Automation",
+      "Redhat Automation",
+      "Ansible"
       
-    }
+    ],
+    "images": [
+      "https://i.ibb.co/txVLxfh/automation1.png",
+      "https://i.ibb.co/kq7Lf2T/automation2.png"
+ 
 
+    ],
+    "repo": "https://i.ibb.co/DGyvQqP/course-certificate.jpg"
+    
+  },
 
+  {
+    "name": "Google Cloud Platform Certification",
+    "description": "Official Trainning given by Google",
+    "tecnologies": [
+      "GCP",
+      "Elastic Cloud Infrastructure,Scaling",
+      "Scaling and Automation"
+      
+    ],
+    "images": [
+      "https://i.ibb.co/YczCg7L/GCP2.jpg",
+      "https://i.ibb.co/mJTwTzd/GCP1.png"
+ 
 
+    ],
+    "repo": "https://googlecourses.qwiklabs.com/public_profiles/b60db51c-596c-4f31-b925-7e437050b5e3"
+    
+  },
 
+  {
+    "name": "HashiCorp Certified Terraform Associate",
+    "description": "Official Trainning given by HarshiCorp",
+    "tecnologies": [
+      "Terraform",
+      "Vault",
+      "Sentinel"
+      
+    ],
+    "images": [
+      "https://i.ibb.co/gmfgHHy/terraform1.png",
+      "https://i.ibb.co/pJdZ7KT/terraform2-png.png"
+ 
+
+    ],
+    "repo": "https://drive.google.com/file/d/1S-3XRSNn_LdGjYXpmrbVDf-1OfQ6hThC/view?usp=sharing"
+    
+  },
+  
+   {
+    "name": "Terraform Automation AWS infrastructure",
+    "description": "Course was taken in Udemy",
+    "tecnologies": [
+      "Terraform",
+      "AWS",
+      "Infra"
+      
+    ],
+    "images": [
+      "https://i.ibb.co/Fs3N5Ks/tf-aws.png"
+       
+
+    ],
+    "repo": "https://www.udemy.com/certificate/UC-06561885-1121-40d8-a66b-204a29e8b302/"
+    
+  },
+  {
+    "name": "Helm deep dive v3",
+    "description": "Course was taken in Cloud Guru",
+    "tecnologies": [
+      "Helm",
+      "K8s",
+      "Infra"
+      
+    ],
+    "images": [
+      "https://verify.acloud.guru/F3ADDBFBC37E",
+      "https://ibb.co/sCjrX0Q"
+       
+
+    ],
+    "repo": "https://drive.google.com/file/d/1FwAIyTiHwsiKLScbJ-KG5C4B5Yt2ZwHR/view?usp=sharing"
+    
+  },
+  {
+    "name": "GitLab Certified Associate",
+    "description": "Course was taken Gitlab official web page",
+    "tecnologies": [
+      "Gitlab",
+      "CI/CD",
+      "Pipeline"
+      
+    ],
+    "images": [
+      "https://i.ibb.co/cNYLwKR/gitlab.webp",
+      "https://ibb.co/5RjP9yL"
+       
+
+    ],
+    "repo": "https://gitlab.badgr.com/public/assertions/JSONVl9KSb-hTUAv0B9S6g?identity__email=jpiazza@asapp.com"
+    
+  },
+  {
+    "name": "My Sandbox made in Terraform/K8S",
+    "description": "EKS deployed in Terraform",
+    "tecnologies": [
+      "Gitlab-ci",
+      "CI/CD",
+      "Terraform",
+      "Helm",
+      "ArgoCD",
+      "K8s",
+      "Docker"
+      
+    ],
+    "images": [
+      "https://ibb.co/wh8Nb0x"
+    
+    ],
+    "repo": "https://gitlab.com/piazzajignacio/cobrakai/-/tree/main"
+  }
+
+  
+
+  
 ]

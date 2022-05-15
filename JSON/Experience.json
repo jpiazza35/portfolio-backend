@@ -2,7 +2,40 @@
     {
         "experience": "EDS",
         "description": "security analyst",
+        "yearstart": 2008,
+        "yearend":2009 
+    },
+    {
+        "experience": "IBM",
+        "description": "AIX system Admin",
         "yearstart": 2009,
         "yearend":2011 
-    }
+    },
+    {
+        "experience": "Xerox",
+        "description": "Linux system Admin",
+        "yearstart": 2011,
+        "yearend":2014 
+    },
+    {
+        "experience": "Atos",
+        "description": "Automation/Linux Automation",
+        "yearstart": 2014,
+        "yearend":2017 
+    },
+    {
+        "experience": "Atos",
+        "description": "Cloud Devops Enginner",
+        "yearstart": 2017,
+        "yearend":2021 
+    },
+    {
+        "experience": "ASAPP",
+        "description": "Devops Enginner",
+        "yearstart": 2021,
+        "yearend": "currently" 
+    },
+
+
+
 ]
